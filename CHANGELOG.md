@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+* **feature** Added a persistent event queue storing events in the UserDefaults. [#137](https://github.com/matomo-org/matomo-sdk-ios/issues/137) (by @bobunmeng and @brototyp)
 * **improvement** Increased deployment targets to iOS 11 and macOS 10.13. [#431](https://github.com/matomo-org/matomo-sdk-ios/pull/431) 
 
 ## 7.5.2
